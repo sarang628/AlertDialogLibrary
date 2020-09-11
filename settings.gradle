@@ -1,0 +1,3 @@
+rootProject.name = "AlertDialogLibrary"
+include ':app'
+include ':alertdialog'
